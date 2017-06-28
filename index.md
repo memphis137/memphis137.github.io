@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Machine Reading Comprehension
+## ——Deep Learning Summer School 2017
+### Chence Shi/Yuanzheng Tao/Liangchuan Zou/Zirui Wang
 
-You can use the [editor on GitHub](https://github.com/memphis137/memphis137.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+1.[R-NET: MACHINE READING COMPREHENSION WITH SELF-MATCHING NETWORKS](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+2.[Learning Natural Language Inference with LSTM](https://arxiv.org/pdf/1512.08849.pdf)
 
-### Markdown
+3.[MACHINE COMPREHENSION USING MATCH-LSTM AND ANSWER POINTER](https://arxiv.org/pdf/1608.07905.pdf)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+4.[Question Answering on the SQuAD Dataset](https://web.stanford.edu/class/cs224n/reports/2761899.pdf)
 
-```markdown
-Syntax highlighted code block
+5.[BI-DIRECTIONAL ATTENTION FLOW FOR MACHINE COMPREHENSION](https://arxiv.org/pdf/1611.01603.pdf)
 
-# Header 1
-## Header 2
-### Header 3
+6.[NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE*](https://arxiv.org/pdf/1409.0473.pdf)
 
-- Bulleted
-- List
+7.[Pointer Networks*](https://arxiv.org/pdf/1506.03134.pdf)
 
-1. Numbered
-2. List
+8.[REASONING ABOUT ENTAILMENT WITH NEURAL ATTENTION](https://arxiv.org/pdf/1509.06664.pdf)
 
-**Bold** and _Italic_ and `Code` text
+9.[Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation*](https://arxiv.org/pdf/1406.1078.pdf)
 
-[Link](url) and ![Image](src)
-```
+10.[ReasoNet: Learning to Stop Reading in Machine Comprehension](https://arxiv.org/pdf/1609.05284.pdf)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+11.[Sequence to Sequence Learning with Neural Networks*](https://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/memphis137/memphis137.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+12.[End-To-End Memory Networks*](https://arxiv.org/pdf/1503.08895.pdf)
